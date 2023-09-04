@@ -59,12 +59,8 @@ export default defineConfig({
 
 ```
 <import
-
 	src="./parts/item.html"
-	
 	name="product 1"
-	
 	image="/image/1.jpg"
-
 />
 ```
